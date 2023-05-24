@@ -1,0 +1,10 @@
+D:\ООП\laba4\laba4_1\laba4_1\bin\Debug\laba4_1.exe.config
+D:\ООП\laba4\laba4_1\laba4_1\bin\Debug\laba4_1.exe
+D:\ООП\laba4\laba4_1\laba4_1\bin\Debug\laba4_1.pdb
+D:\ООП\laba4\laba4_1\laba4_1\obj\Debug\laba4_1.csproj.AssemblyReference.cache
+D:\ООП\laba4\laba4_1\laba4_1\obj\Debug\laba4_1.Form1.resources
+D:\ООП\laba4\laba4_1\laba4_1\obj\Debug\laba4_1.Properties.Resources.resources
+D:\ООП\laba4\laba4_1\laba4_1\obj\Debug\laba4_1.csproj.GenerateResource.cache
+D:\ООП\laba4\laba4_1\laba4_1\obj\Debug\laba4_1.csproj.CoreCompileInputs.cache
+D:\ООП\laba4\laba4_1\laba4_1\obj\Debug\laba4_1.exe
+D:\ООП\laba4\laba4_1\laba4_1\obj\Debug\laba4_1.pdb
