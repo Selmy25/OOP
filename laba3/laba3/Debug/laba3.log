@@ -1,0 +1,4 @@
+﻿  laba3.cpp
+D:\ООП\laba3\laba3\laba3.cpp(266,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\ООП\laba3\laba3\laba3.cpp(310,13): warning C4129: T: неизвестная escape-последовательность
+  laba3.vcxproj -> D:\ООП\laba3\Debug\laba3.exe
